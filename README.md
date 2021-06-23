@@ -1,5 +1,5 @@
 # google-autocomplete-scraper
- Google is the king of search engines, making it the ultimate source of data for a whole host of use cases.¶
+ Google is the king of search engines, making it the ultimate source of data for a whole host of use cases.
 
  If you work as a marketer or an analyst specifically with search engine optimization (SEO), I bet you already use Google autocomplete for keyword research.
 
